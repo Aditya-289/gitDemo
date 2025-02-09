@@ -1,2 +1,2 @@
 # gitDemo
-Tjis is demo for github learning
+This is demo for github learning
